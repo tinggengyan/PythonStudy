@@ -35,3 +35,21 @@ print(2 / 5)
 print(2.0 / 5)
 print(2 / 5.0)
 print(2.0 / 5.0)
+
+# mode
+print(5 % 2)
+print(5.0 % 2)
+print(divmod(5, 2))
+
+# string
+print('hello "world!"')
+print("hello,'world'")
+print('what\'s your name?')
+a = 'steve'
+b = 'yan'
+print(a + b)
+c = 900;
+# link the string and number
+print(a + `c`)
+print(b + str(c))
+print(a + repr(c))

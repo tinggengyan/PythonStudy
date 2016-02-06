@@ -31,6 +31,7 @@ print(pow(2, 3))
 # sqrt
 print(math.sqrt(4))
 
+# divider
 print(2 / 5)
 print(2.0 / 5)
 print(2 / 5.0)
@@ -53,3 +54,22 @@ c = 900;
 print(a + `c`)
 print(b + str(c))
 print(a + repr(c))
+
+# place holder
+print("this is a int %d" % 100)
+print("this is a string %s" % 'steveyan')
+
+d = 'HahA'
+print("%s" % d)
+
+e = 'py'
+f = 'thon'
+print("%s%s" % (e, f))
+
+# compute the length of the string
+g = "hello ,everyone ,my name is steve yan"
+print("length is %d" % len(g))
+
+print(type(len(g)))
+
+

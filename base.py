@@ -49,5 +49,36 @@ classMates = ['yan', 'yang']
 print classMates
 print 'classMates\'s length', len(classMates)
 print 'classMates first is ', classMates[0]
-print 'the last one is ',classMates[-1]
-print 'the last two is ',classMates[-2]
+print 'the last one is ', classMates[-1]
+print 'the last two is ', classMates[-2]
+# insert
+classMates.insert(1, 'hello')
+# delete
+classMates.pop(-1)
+print classMates
+print 'list\'s length is  ', len(classMates)
+s = ['python', 'java', ['asp', 'php'], 'scheme']
+print s[2]
+
+# tuple can not change
+teachers = ('A', 'B')
+print teachers
+
+for name in teachers:
+    print name
+
+# dict
+scores = {'steve': 100, 'he': 90, 'she': 100}
+print scores['he']
+print 'steve' in scores
+print scores.get('s')
+
+classMates.append('steve')
+classMates.append('steve')
+setDemo = set(classMates)
+print setDemo
+setDemo.add('steve')
+setDemo.add('steve')
+print setDemo
+setDemo.remove('steve')
+print setDemo

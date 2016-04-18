@@ -96,10 +96,3 @@ class WeiboLogin:
             print "Login Succeed!"
         except:
             print 'Login Error!'
-
-
-# login
-# username = '15221318313'
-# userpsw = 'yantinggeng0102'
-# user = WeiboLogin(username, userpsw)
-# user.login()

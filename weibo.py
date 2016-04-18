@@ -99,7 +99,7 @@ class WeiboLogin:
 
 
 # login
-username = '15221318313'
-userpsw = 'yantinggeng0102'
-user = WeiboLogin(username, userpsw)
-user.login()
+# username = '15221318313'
+# userpsw = 'yantinggeng0102'
+# user = WeiboLogin(username, userpsw)
+# user.login()

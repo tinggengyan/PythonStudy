@@ -16,13 +16,15 @@ import xlrd
 from lxml import etree
 from xlutils.copy import copy
 
+import weibo
+
 """数据收集类
 利用微博高级搜索功能，按关键字搜集一定时间范围内的微博。
 """
 
 
 class CollectData(object):
-    def __init__(self, keyword, startTime, interval='50', flag=True, begin_url_per="http://s.weibo.com/weibo/"):
+    def __init__(self, keyword, startTime, interval=50, flag=True, begin_url_per="http://s.weibo.com/weibo/"):
         self.begin_url_per = begin_url_per  # 设置固定地址部分
         self.setKeyword(keyword)  # 设置关键字
         self.setStartTimescope(startTime)  # 设置搜索的开始时间
@@ -90,7 +92,6 @@ class CollectData(object):
                         print 'Internet Connect Error!'
                         self.logger.error('Internet Connect Error!')
                         self.logger.info('url: ' + source_url)
-                        self.logger.info('fileNum: ' + str(fileNum))
                         self.logger.info('page: ' + str(i))
                         self.flag = False
                         goon = False
@@ -144,9 +145,7 @@ class CollectData(object):
                 if isCaught:
                     print 'Be Caught!'
                     self.logger.error('Be Caught Error!')
-                    self.logger.info('filePath: ' + savedir)
                     self.logger.info('url: ' + source_url)
-                    self.logger.info('fileNum: ' + str(fileNum))
                     self.logger.info('page:' + str(i))
                     data = None
                     self.flag = False
@@ -221,4 +220,8 @@ def main():
 
 
 if __name__ == '__main__':
+    username = ' '
+    userpsw = ''
+    user = weibo.WeiboLogin(username, userpsw)
+    user.login()
     main()

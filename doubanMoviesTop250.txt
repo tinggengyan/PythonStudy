@@ -1,0 +1,481 @@
+1:肖申克的救赎
+英文名: / The Shawshank Redemption
+2:这个杀手不太冷
+英文名: / Léon
+3:阿甘正传
+英文名: / Forrest Gump
+4:霸王别姬
+5:美丽人生
+英文名: / La vita è bella
+6:千与千寻
+英文名: / 千と千尋の神隠し
+7:辛德勒的名单
+英文名: / Schindler's List
+8:海上钢琴师
+英文名: / La leggenda del pianista sull'oceano
+9:机器人总动员
+英文名: / WALL·E
+10:盗梦空间
+英文名: / Inception
+11:泰坦尼克号
+英文名: / Titanic
+12:三傻大闹宝莱坞
+英文名: / 3 Idiots
+13:放牛班的春天
+英文名: / Les choristes
+14:忠犬八公的故事
+英文名: / Hachi: A Dog's Tale
+15:龙猫
+英文名: / となりのトトロ
+16:大话西游之大圣娶亲
+英文名: / 西遊記大結局之仙履奇緣
+17:教父
+英文名: / The Godfather
+18:乱世佳人
+英文名: / Gone with the Wind
+19:天堂电影院
+英文名: / Nuovo Cinema Paradiso
+20:当幸福来敲门
+英文名: / The Pursuit of Happyness
+21:搏击俱乐部
+英文名: / Fight Club
+22:楚门的世界
+英文名: / The Truman Show
+23:触不可及
+英文名: / Intouchables
+24:指环王3：王者无敌
+英文名: / The Lord of the Rings: The Return of the King
+25:罗马假日
+英文名: / Roman Holiday
+26:十二怒汉
+英文名: / 12 Angry Men
+27:两杆大烟枪
+英文名: / Lock, Stock and Two Smoking Barrels
+28:天空之城
+英文名: / 天空の城ラピュタ
+29:怦然心动
+英文名: / Flipped
+30:海豚湾
+英文名: / The Cove
+31:飞屋环游记
+英文名: / Up
+32:大话西游之月光宝盒
+英文名: / 西遊記第壹佰零壹回之月光寶盒
+33:飞越疯人院
+英文名: / One Flew Over the Cuckoo's Nest
+34:无间道
+英文名: / 無間道
+35:鬼子来了
+36:窃听风暴
+英文名: / Das Leben der Anderen
+37:少年派的奇幻漂流
+英文名: / Life of Pi
+38:蝙蝠侠：黑暗骑士
+英文名: / The Dark Knight
+39:V字仇杀队
+英文名: / V for Vendetta
+40:熔炉
+英文名: / 도가니
+41:闻香识女人
+英文名: / Scent of a Woman
+42:天使爱美丽
+英文名: / Le fabuleux destin d'Amélie Poulain
+43:活着
+44:美丽心灵
+英文名: / A Beautiful Mind
+45:指环王1：魔戒再现
+英文名: / The Lord of the Rings: The Fellowship of the Ring
+46:指环王2：双塔奇兵
+英文名: / The Lord of the Rings: The Two Towers
+47:教父2
+英文名: / The Godfather: Part Ⅱ
+48:哈尔的移动城堡
+英文名: / ハウルの動く城
+49:七宗罪
+英文名: / Se7en
+50:情书
+英文名: / Love Letter
+51:勇敢的心
+英文名: / Braveheart
+52:剪刀手爱德华
+英文名: / Edward Scissorhands
+53:死亡诗社
+英文名: / Dead Poets Society
+54:美国往事
+英文名: / Once Upon a Time in America
+55:钢琴家
+英文名: / The Pianist
+56:致命魔术
+英文名: / The Prestige
+57:狮子王
+英文名: / The Lion King
+58:被嫌弃的松子的一生
+英文名: / 嫌われ松子の一生
+59:音乐之声
+英文名: / The Sound of Music
+60:小鞋子
+英文名: / بچههای آسمان
+61:低俗小说
+英文名: / Pulp Fiction
+62:入殓师
+英文名: / おくりびと
+63:蝴蝶效应
+英文名: / The Butterfly Effect
+64:玛丽和马克思
+英文名: / Mary and Max
+65:星际穿越
+英文名: / Interstellar
+66:沉默的羔羊
+英文名: / The Silence of the Lambs
+67:本杰明·巴顿奇事
+英文名: / The Curious Case of Benjamin Button
+68:黑客帝国
+英文名: / The Matrix
+69:拯救大兵瑞恩
+英文名: / Saving Private Ryan
+70:第六感
+英文名: / The Sixth Sense
+71:大鱼
+英文名: / Big Fish
+72:射雕英雄传之东成西就
+英文名: / 射鵰英雄傳之東成西就
+73:西西里的美丽传说
+英文名: / Malèna
+74:饮食男女
+英文名: / 飲食男女
+75:幽灵公主
+英文名: / もののけ姫
+76:让子弹飞
+77:心灵捕手
+英文名: / Good Will Hunting
+78:阳光姐妹淘
+英文名: / 써니
+79:阳光灿烂的日子
+80:辩护人
+英文名: / 변호인
+81:上帝之城
+英文名: / Cidade de Deus
+82:萤火虫之墓
+英文名: / 火垂るの墓
+83:大闹天宫
+84:重庆森林
+英文名: / 重慶森林
+85:春光乍泄
+英文名: / 春光乍洩
+86:致命ID
+英文名: / Identity
+87:禁闭岛
+英文名: / Shutter Island
+88:甜蜜蜜
+89:告白
+90:加勒比海盗
+英文名: / Pirates of the Caribbean: The Curse of the Black Pearl
+91:爱在黎明破晓前
+英文名: / Before Sunrise
+92:阿凡达
+英文名: / Avatar
+93:风之谷
+英文名: / 風の谷のナウシカ
+94:一一
+95:爱在日落黄昏时
+英文名: / Before Sunset
+96:控方证人
+英文名: / Witness for the Prosecution
+97:海洋
+英文名: / Océans
+98:燃情岁月
+英文名: / Legends of the Fall
+99:驯龙高手
+英文名: / How to Train Your Dragon
+100:侧耳倾听
+英文名: / 耳をすませば
+101:素媛
+英文名: / 소원
+102:虎口脱险
+英文名: / La grande vadrouille
+103:幸福终点站
+英文名: / The Terminal
+104:超脱
+英文名: / Detachment
+105:神偷奶爸
+英文名: / Despicable Me
+106:猫鼠游戏
+英文名: / Catch Me If You Can
+107:电锯惊魂
+英文名: / Saw
+108:真爱至上
+英文名: / Love Actually
+109:摩登时代
+英文名: / Modern Times
+110:断背山
+英文名: / Brokeback Mountain
+111:菊次郎的夏天
+英文名: / 菊次郎の夏
+112:贫民窟的百万富翁
+英文名: / Slumdog Millionaire
+113:借东西的小人阿莉埃蒂
+英文名: / 借りぐらしのアリエッティ
+114:雨人
+英文名: / Rain Man
+115:岁月神偷
+英文名: / 歲月神偷
+116:恋恋笔记本
+英文名: / The Notebook
+117:布达佩斯大饭店
+英文名: / The Grand Budapest Hotel
+118:记忆碎片
+英文名: / Memento
+119:疯狂原始人
+英文名: / The Croods
+120:谍影重重3
+英文名: / The Bourne Ultimatum
+121:魂断蓝桥
+英文名: / Waterloo Bridge
+122:穿越时空的少女
+英文名: / 時をかける少女
+123:东邪西毒
+英文名: / 東邪西毒
+124:狩猎
+英文名: / Jagten
+125:猜火车
+英文名: / Trainspotting
+126:倩女幽魂
+127:七武士
+英文名: / 七人の侍
+128:怪兽电力公司
+英文名: / Monsters, Inc.
+129:穿条纹睡衣的男孩
+英文名: / The Boy in the Striped Pajamas
+130:卢旺达饭店
+英文名: / Hotel Rwanda
+131:哈利·波特与魔法石
+英文名: / Harry Potter and the Sorcerer's Stone
+132:秒速5厘米
+英文名: / 秒速5センチメートル
+133:我是山姆
+英文名: / I Am Sam
+134:黑天鹅
+英文名: / Black Swan
+135:傲慢与偏见
+英文名: / Pride & Prejudice
+136:人工智能
+英文名: / Artificial Intelligence: AI
+137:完美的世界
+英文名: / A Perfect World
+138:教父3
+英文名: / The Godfather: Part III
+139:玩具总动员3
+英文名: / Toy Story 3
+140:杀人回忆
+英文名: / 살인의 추억
+141:英雄本色
+142:香水
+英文名: / Perfume: The Story of a Murderer
+143:雨中曲
+英文名: / Singin' in the Rain
+144:碧海蓝天
+英文名: / Le grand bleu
+145:冰川时代
+英文名: / Ice Age
+146:末代皇帝
+英文名: / The Last Emperor
+147:撞车
+英文名: / Crash
+148:纵横四海
+英文名: / 緃横四海
+149:浪潮
+英文名: / Die Welle
+150:海盗电台
+英文名: / The Boat That Rocked
+151:萤火之森
+英文名: / 蛍火の杜へ
+152:红辣椒
+英文名: / パプリカ
+153:可可西里
+154:喜宴
+155:追随
+英文名: / Following
+156:朗读者
+英文名: / The Reader
+157:战争之王
+英文名: / Lord of War
+158:迁徙的鸟
+英文名: / Le peuple migrateur
+159:荒野生存
+英文名: / Into the Wild
+160:梦之安魂曲
+英文名: / Requiem for a Dream
+161:恐怖直播
+英文名: / 더 테러 라이브
+162:罗生门
+英文名: / 羅生門
+163:哈利·波特与死亡圣器(下)
+英文名: / Harry Potter and the Deathly Hallows: Part 2
+164:消失的爱人
+英文名: / Gone Girl
+165:燕尾蝶
+英文名: / スワロウテイル
+166:绿里奇迹
+英文名: / The Green Mile
+167:谍影重重
+英文名: / The Bourne Identity
+168:一次别离
+英文名: / جدایی نادر از سیمین
+169:地球上的星星
+英文名: / Taare Zameen Par
+170:勇闯夺命岛
+英文名: / The Rock
+171:7号房的礼物
+英文名: / 7번방의 선물
+172:叫我第一名
+英文名: / Front of the Class
+173:卡萨布兰卡
+英文名: / Casablanca
+174:英国病人
+英文名: / The English Patient
+175:谍影重重2
+英文名: / The Bourne Supremacy
+176:变脸
+英文名: / Face/Off
+177:穆赫兰道
+英文名: / Mulholland Dr.
+178:喜剧之王
+英文名: / 喜劇之王
+179:阿飞正传
+英文名: / 阿飛正傳
+180:E.T. 外星人
+英文名: / E.T.: The Extra-Terrestrial
+181:这个男人来自地球
+英文名: / The Man from Earth
+182:两小无猜
+英文名: / Jeux d'enfants
+183:花样年华
+英文名: / 花樣年華
+184:时空恋旅人
+英文名: / About Time
+185:唐伯虎点秋香
+186:曾经
+英文名: / Once
+187:魔女宅急便
+英文名: / 魔女の宅急便
+188:上帝也疯狂
+英文名: / The Gods Must Be Crazy
+189:惊魂记
+英文名: / Psycho
+190:非常嫌疑犯
+英文名: / The Usual Suspects
+191:爱·回家
+英文名: / 집으로...
+192:终结者2
+英文名: / Terminator 2: Judgment Day
+193:发条橙
+英文名: / A Clockwork Orange
+194:恐怖游轮
+英文名: / Triangle
+195:蓝色大门
+英文名: / 藍色大門
+196:再次出发之纽约遇见你
+英文名: / Begin Again
+197:蝴蝶
+英文名: / Le Papillon
+198:爱在暹罗
+英文名: / รักแห่งสยาม
+199:忠犬八公物语
+英文名: / ハチ公物語
+200:初恋这件小事
+英文名: / สิ่งเล็กเล็กที่เรียกว่า...รัก
+201:哪吒闹海
+202:巴黎淘气帮
+英文名: / Le petit Nicolas
+203:蝙蝠侠：黑暗骑士崛起
+英文名: / The Dark Knight Rises
+204:勇士
+英文名: / Warrior
+205:源代码
+英文名: / Source Code
+206:末路狂花
+英文名: / Thelma & Louise
+207:与狼共舞
+英文名: / Dances with Wolves
+208:麦兜故事
+英文名: / 麥兜故事
+209:夜访吸血鬼
+英文名: / Interview with the Vampire: The Vampire Chronicles
+210:美国丽人
+英文名: / American Beauty
+211:黑客帝国3：矩阵革命
+英文名: / The Matrix Revolutions
+212:中央车站
+英文名: / Central do Brasil
+213:暖暖内含光
+英文名: / Eternal Sunshine of the Spotless Mind
+214:新龙门客栈
+英文名: / 新龍門客棧
+215:黄金三镖客
+英文名: / Il buono, il brutto, il cattivo.
+216:遗愿清单
+英文名: / The Bucket List
+217:小森林 夏秋篇
+英文名: / リトル・フォレスト 夏・秋
+218:青蛇
+219:罪恶之城
+英文名: / Sin City
+220:被解救的姜戈
+英文名: / Django Unchained
+221:偷拐抢骗
+英文名: / Snatch
+222:心迷宫
+223:东京物语
+英文名: / 東京物語
+224:达拉斯买家俱乐部
+英文名: / Dallas Buyers Club
+225:无耻混蛋
+英文名: / Inglourious Basterds
+226:城市之光
+英文名: / City Lights
+227:大卫·戈尔的一生
+英文名: / The Life of David Gale
+228:无敌破坏王
+英文名: / Wreck-It Ralph
+229:国王的演讲
+英文名: / The King's Speech
+230:荒岛余生
+英文名: / Cast Away
+231:血钻
+英文名: / Blood Diamond
+232:未麻的部屋
+英文名: / Perfect Blue
+233:寿司之神
+英文名: / Jiro Dreams of Sushi
+234:牯岭街少年杀人事件
+英文名: / 牯嶺街少年殺人事件
+235:导盲犬小Q
+英文名: / クイール
+236:月球
+英文名: / Moon
+237:角斗士
+英文名: / Gladiator
+238:超能陆战队
+英文名: / Big Hero 6
+239:不一样的天空
+英文名: / What's Eating Gilbert Grape
+240:假如爱有天意
+英文名: / 클래식
+241:我们俩
+242:速度与激情5
+英文名: / Fast Five
+243:廊桥遗梦
+英文名: / The Bridges of Madison County
+244:千钧一发
+英文名: / Gattaca
+245:我爱你
+英文名: / 그대를 사랑합니다
+246:跳出我天地
+英文名: / Billy Elliot
+247:疯狂的石头
+248:我在伊朗长大
+英文名: / Persepolis
+249:八月迷情
+英文名: / August Rush
+250:洛城机密
+英文名: / L.A. Confidential
